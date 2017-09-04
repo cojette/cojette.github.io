@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Business Analyst
+title: Business Analyst와 데이터 추출
 ---
 
 > **A business analyst (BA)** is someone who analyzes an organization or business domain (real or hypothetical) and documents its business or processes or systems, assessing the business model or its integration with technology.
@@ -63,7 +63,7 @@ title: Business Analyst
 하지만 장기적으로 이런 업무만 하는 것은 그 사람의 업무를 대하는 자세나, 전반적인 분석 업무를 고려하는 경우에는 도움이 되지 않을 것이라고 생각한다. 일단 (대부분의 경우) 재미도 없을 것이고.
 
 내가 이 바닥에서 n년 일하면서 ‘데이터 추출자’를 따로 두었을 경우 이 사람들이 어떻게 되는 지에 대한 폐해는 무수히 봐왔고, 그럼에도 불구하고 사람들의 욕심은 끝이 없고 매번 같은 실수를 반복하는 일도 잘 보고 있다. 
-시간이 지나면 이런 일은 없어지겠거니 했는데, 전혀 없어지지 않고 이제는 아예 다른 직함까지 붙여가면서 돌아가는 것을 보면 이쯤 되면 별로 할 말도 없다.
+시간이 지나면 이런 일은 없어지겠거니 했는데, 전혀 없어지지 않고 이제는 아예 다른 직함까지 붙여가면서 돌아가는 것을 보면 이쯤 되면 별로 할 말도 없다. (비단 BA를 따로 정의하지 않더라도 이런 경우 매우 허다하고 솔직히 이런 거 이제 좀 지겹습니다)
 
 나는 **‘자주 봐야 하는 데이터는 지표로 정의해서 구글 스프레드시트부터 태블로까지 다양한 도구를 사용해서 대시보드화하고, 최대한 본인이 보고자 하는 것은 본인이 뽑을 것이며, 이보다 어려운 분석은 분석가에게~~(약은 약사에게 진료는 의사에게)~~ 결과까지 맡길 것’** 이라고 생각하고, 아직까지는 이 생각이 틀렸다고 생각한 적은 없다. 
 물론 세상에는 다양한 상황이 존재하고, 급한 경우라든가 사람들이 모두 데이터를 볼 줄 모르는 상황인 경우 등이 있다. 
