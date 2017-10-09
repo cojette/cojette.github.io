@@ -30,5 +30,7 @@ title: 비즈니스의 AI와 전문가 시스템
 ## Reference
 
 [Artificial Intelligence: A Modern Approach(Third Edition)], Stuart Russell and Peter Norvig, Pearson, 2010
+
 [인공지능은 뇌를 닮아가는가], 유신, 컬처룩, 2014
+
 [구글에서 배우는 딥러닝], 닛케이 빅데이터, 영진닷컴, 2017
