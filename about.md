@@ -24,9 +24,9 @@ permalink: /about/
 * 루이스 캐럴과 앨리스 시리즈
 * SF
 * 추리소설
-* ...그 외에도 책이라면 일단 좋음
+* 그 외 책들
 * 음악들
-* 영화들 도 잡다하게 좋아함.
+* 영화들 
 * R
 * Python
 * 번역
@@ -38,7 +38,8 @@ permalink: /about/
   * [GitHub](https://github.com/cojette)
   * [Measuring benefit effect for customer with bayesian prediction modeling](http://strataconf.com/big-data-conference-uk-2015/public/schedule/detail/39592), Strata+Hadoop World, 2015 May  
   * [Slides](http://www.slideshare.net/cojette)
-* [도서 작업 관련 모음-알라딘](http://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@2477250)
+  * [기사들 (몇 가지만)](https://www.google.co.kr/search?q=%EA%B6%8C%EC%A0%95%EB%AF%BC+%EB%8D%B0%EC%9D%B4%ED%84%B0&source=lnms&tbm=nws&sa=X&ved=0ahUKEwi1gIu9k8jZAhVCerwKHVs-DGAQ_AUICygC&biw=1183&bih=631&dpr=2)
+* [도서 작업 관련 모음-알라딘](http://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@2477250) (번역/감수)
 * 오래 전의 조각글들
   * [기사 번역](http://cojette-wiki.appspot.com/기사_번역)
   * [datum.io](http://datum.io)
