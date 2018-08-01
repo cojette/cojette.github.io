@@ -14,7 +14,7 @@ title: 잉여의 잉여력 관리(2018 ver.) – feat. Life Cycle
 
 스웨덴 예테보리에서 건너온 앱,[**Life Cycle**](https://itunes.apple.com/us/app/life-cycle-track-your-time/id1064955217?mt=8).
 
-![](https://cojette.files.wordpress.com/2018/08/img_1780.png=300x)
+<img src="https://cojette.files.wordpress.com/2018/08/img_1780.png" width="300">
 
 사실 아이폰 사용 초기에 Sleep Cycle이란 앱을 꽤나 유용하게 사용하고 있었어서(이전 글에도 적었다시피 나는 만성 수면 장애를 끼고 살고 있고 잠을 잘 자는 것은 삶의 질과 직접적인 관련이 있다. 특히 충분한 잉여력을 마련하는 데에는 더욱 관련이 많다) 이 회사에 대해서는 대충 알고 있던 차에, 애플와치를 산 이후 지인이 이 앱을 추천하는 것을 보고 덥석 구매를 했다.
 
