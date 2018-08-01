@@ -29,14 +29,16 @@ title: 잉여의 잉여력 관리(2018 ver.) – feat. Life Cycle
 
 주별, 월별의 경우에는 간단한 집계 내용도 보여주는데 그 내용 역시 꽤나 쏠쏠하다. 처음 방문한 곳이라든가, 오랜만에 다시 한 행동 등. 그리고 주요 행동들에 대해서는 시간 소요 정도를 비교해 주기도 한다. 이를 통해서 상태에 대한 추정이나 간단한 회고 등을 쉽게 할 수 있다.
 
-
-<img src="https://cojette.files.wordpress.com/2018/08/img_1785.png" width="300">
-<img src="https://cojette.files.wordpress.com/2018/08/img_1786.png" width="300">
+<div style="text-align: center;">
+  <img src="https://cojette.files.wordpress.com/2018/08/img_1785.png" width="300">
+  <img src="https://cojette.files.wordpress.com/2018/08/img_1786.png" width="300">
+</div>
 
 이 외에도 행동 트렌드를 손쉽게 살펴볼 수도 있다. 트렌드 역시도 주단위, 월단위 등으로 모아서 볼 수도 있다.
-
-<img src="https://cojette.files.wordpress.com/2018/08/img_1782.png" width="300">
-<img src="https://cojette.files.wordpress.com/2018/08/img_1783.png" width="300">
+<div style="text-align: center;">
+  <img src="https://cojette.files.wordpress.com/2018/08/img_1782.png" width="300">
+  <img src="https://cojette.files.wordpress.com/2018/08/img_1783.png" width="300">
+</div>
 
 심지어, 최근에는 해당 상세 데이터를 csv로 다운로드 받을 수도 있게 되어서, 기본적으로 제공하는 것 외의 데이터 놀이도 할 수 있게 되었고, 모든 일상 트래킹 앱의 궁극적인 목표까지 달성하게 되어 버렸다. 이 데이터를 가지고 하는 놀이는 며칠 후 한 번 해보고 재밌는 내용이 나오면 또 글을 써보거나 할 생각이다.
 
