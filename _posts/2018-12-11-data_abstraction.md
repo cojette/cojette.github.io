@@ -25,5 +25,7 @@
 ## Reference
 
 _Floridi L. ,2008, The method of levels of abstraction. Minds Mach. 18, 303–329._
+
 _Floridi L. ,2006, Information ethics, its nature and scope. SIGCAS Comput. Soc. 36, 21–36._
+
 _Floridi L, Taddeo M. , 2016, What is data ethics?Phil. Trans. R. Soc. A 374_
