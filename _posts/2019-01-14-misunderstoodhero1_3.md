@@ -55,7 +55,7 @@ _세 가지 데이터 과학 분야 각각 모두 나름의 우월한 면이 있
 
 만약 당신이 " _넌 99.99999% 정확성 테스트를 통과하는 모델을 만들지 못할 거야_ " 라는 말에 " _두고 봐_ " 라고 대답한다면 당신은 [머신 러닝 응용](http://bit.ly/quaesita_realitycheck) /AI 엔지니어일 것이다. 머신러닝 전문가는 프로그래밍 코드로 돌아가는 프로토타입과 실 서비스 단계까지 만들어봤고 몇 년 동안 매년 실패를 겪으면서 단련된 회복성을 가지고 있어서, 그들은 교과서에는 완벽한 해답이 없다는 것을 알고 있다. 대신 그들은 [시행 착오의 마라톤](http://bit.ly/quaesita_emperor)에 뛰어든다. 각각의 새로운 옵션을 시도하는 데 [얼마나 오래 걸릴지에 대한 직감](http://bit.ly/quaesita_roles)이 뛰어난 것은 엄청난 이점이며 이는 알고리즘이 작동하는 방식에 대해 자세히 아는 것보다 소중하다(두 가지 모두 가지고 있는 것이 좋지만).
 
-![“돌아가게 할 거야.” -엔지니어](https://lh6.googleusercontent.com/kRVA9QM2X0VN8qx0ePGDXyYggh53jqVfMn8v-WcbvfmnZXYZSymXmlFOSM88F6Im1hY-bIKrvOZ_ag7z1nVV7BVhZbUu0A5HmWfFNd-avRrtXR7D4oZxgHUSmJxjh4Ch9jGQ5KTc)
+![](https://lh6.googleusercontent.com/kRVA9QM2X0VN8qx0ePGDXyYggh53jqVfMn8v-WcbvfmnZXYZSymXmlFOSM88F6Im1hY-bIKrvOZ_ag7z1nVV7BVhZbUu0A5HmWfFNd-avRrtXR7D4oZxgHUSmJxjh4Ch9jGQ5KTc "'돌아가게 할 거야.' -엔지니어")
 
 **결과**: 통계학자의 엄격한 테스트 기준 통과하고 비즈니스 리더가 요구하는 대담한 성과를 전달할 수 있는 까다로운 작업을 자동화하는 시스템을 만들어낸다.
 
