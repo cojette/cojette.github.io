@@ -1,7 +1,8 @@
 --
 layout: post
 title: 세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (3/3)
----
+--
+
 
 이 글은 구글의 Chief Data Scientist인 [Cassie Kozyrkov](https://twitter.com/quaesita)의 글([Part 1](http://bit.ly/quaesita_analysts), [Part 2](http://bit.ly/quaesita_bsides))을 저자의 허가 하에 번역했다. 
 그림 및 링크는 모두 저자가 제공한 내용을 그대로 사용하였으며, 본 번역 내용은 저자의 번역 글 블로그에도 게재될 예정이다. 
