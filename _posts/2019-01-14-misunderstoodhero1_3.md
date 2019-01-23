@@ -3,7 +3,7 @@ layout: post
 title: 세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (1/3)
 ---
 
-이 글은 구글의 Chief Data Scientist인 [Cassie Kozyrkov](https://twitter.com/quaesita)의 글([Part 1](http://bit.ly/quaesita_analysts), [Part 2](http://bit.ly/quaesita_bsides))을 저자의 허가 하에 번역한 것으로, 번역 본의 약 1/3에 해당하는 내용이다. 그림 및 링크는 모두 저자가 제공한 내용을 그대로 사용하였으며, 본 번역 내용은 저자의 번역 글 블로그에도 게재 예정이다. 
+이 글은 구글의 Chief Data Scientist인 [Cassie Kozyrkov](https://twitter.com/quaesita)의 글([Part 1](http://bit.ly/quaesita_analysts), [Part 2](http://bit.ly/quaesita_bsides))을 저자의 허가 하에 번역한 것으로, 번역 본의 약 1/3에 해당하는 내용이다. 그림 및 링크는 모두 저자가 제공한 내용을 그대로 사용하였으며, 본 번역 내용은 [저자의 번역 글 블로그](https://medium.com/@kozyr_91350/korean-analytics-7ba0b7f48be3)에도 게재되었다. 
 
 개인적으로 동의하는 내용이 많아 굉장히 흥미롭게 읽어서 번역을 하게 되었으며, 자신을 돌아보며 위치를 다듬는 계기도 되었다. 
 긴 내용이지만, 데이터 관련 일을 하는, 혹은 같이 일하는 사람들이 읽어보고 동의를 떠나서 한 번 이런 저런 것에 대해 생각을 해 보았으면 좋겠다. 
