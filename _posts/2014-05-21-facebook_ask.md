@@ -1,3 +1,8 @@
+---
+layout: post
+title: FACEBOOK의 ASK 버튼에 대한 단상
+---
+
 Facebook에 'Ask'기능이 생겼다. ([클리앙 기사 링크](http://www.clien.net/cs2/bbs/board.php?bo_table=news&wr_id=1815342) )
 
 일단 미국 한정이고, 상대방의 관계 상태를 묻고 답하는 기능이다.
