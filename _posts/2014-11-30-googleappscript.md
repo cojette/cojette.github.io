@@ -9,7 +9,7 @@ title: GOOGLE SPREADSHEET에서 SCRIPT 사용하기
 
 간단한 예제를 살펴보자.
 
-![](https://github.com/cojette/cojette.github.io/blob/master/cap1.jpg?raw=true)
+![](https://raw.githubusercontent.com/cojette/cojette.github.io/master/cap1.jpg)
 
 해당 예제는 누군가가 영국에서 차를 사와서 주변 사람들과 나눴을 때 사용한 Google Spreadsheet의 일부다.  해당 경우 영국에서 카드로 원화로 계산해서 바로 원화로 계산했지만, 이 금액이 파운드로는 얼마 정도 하는 지 가늠하고자 한다고 가정하자. 하지만 Google Spreadsheet에서 환율 계산 기능을 바로 제공하지는 않으므로; 한국 원화에 대응하는 파운드 금액을 알려주는 함수를 작성해 보자.
 
@@ -17,11 +17,11 @@ title: GOOGLE SPREADSHEET에서 SCRIPT 사용하기
 
 여기에 넣을 변수를 검색한다.
 
-![](https://github.com/cojette/cojette.github.io/blob/master/cap31.jpg?raw=true)
+![](https://raw.githubusercontent.com/cojette/cojette.github.io/master/cap31.jpg)
 
 이 값을 함수에 넣고, 파운드 표시를 추가하면 끝이다.
 
-![](https://github.com/cojette/cojette.github.io/blob/master/cap2.jpg?raw=true)
+![](https://raw.githubusercontent.com/cojette/cojette.github.io/master/cap2.jpg)
 
 깔끔하게 결과가 잘 나오는 것을 볼 수 있다.
 
