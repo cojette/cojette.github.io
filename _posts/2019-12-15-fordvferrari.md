@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: '포드 v 페라리'를 본 후의 개인적 잡설
