@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: '포드 v 페라리'를 본 후의 개인적 잡설
+title: 포드 v 페라리 를 본 후의 개인적 잡설
 ---
 
 ![](http://intlportal2.s3.foxfilm.com/intlportal2/5de70284bb62c.jpg)
