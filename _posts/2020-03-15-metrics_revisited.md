@@ -4,6 +4,7 @@ title: 다시 찾아간 지표의 세계
 ---
 
 [![](https://image.slidesharecdn.com/202003cojettemetricrevisited-200311124411/95/metrics-revisited-1-638.jpg?cb=1583930718)](https://www.slideshare.net/cojette/metrics-revisited)
+
 (이미지를 클릭하면 슬라이드쉐어 페이지로 넘어갑니다)
 
 지금의 회사에서는 매주 돌아가면서 한 사람씩 자유 주제로 발표를 하는 제도가 있다. 
