@@ -3,7 +3,7 @@ layout: post
 title: <데이터 분석가의 숫자 유감> 연재 3화
 ---
 
-![](https://pbs.twimg.com/card_img/1341903083379412994/VzLROpXT?format=jpg&name=medium)
+![](https://pbs.twimg.com/card_img/1341903083379412994/VzLROpXT?format=jpg&name=small)
 
 
 리디셀렉트에서 진행중인 연재. 격주 목요일. 
