@@ -3,7 +3,7 @@ layout: post
 title: <데이터 분석가의 숫자 유감> 연재 7화
 ---
 
-![](https://pbs.twimg.com/card_img/1372365591802114049/djuoWmQq?format=jpg&name=900x900)
+![](https://pbs.twimg.com/card_img/1372365591802114049/djuoWmQq?format=jpg&name=600x600)
 
 
 리디셀렉트에서 진행중인 연재. 격주 목요일. 
