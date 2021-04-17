@@ -3,7 +3,7 @@ layout: post
 title: <데이터 분석가의 숫자 유감> 연재 11화
 ---
 
-![](https://scontent.ficn4-1.fna.fbcdn.net/v/t1.6435-9/s851x315/173505802_10158394186742449_3857969275452537320_n.jpg)
+![](https://scontent.ficn4-1.fna.fbcdn.net/v/t1.6435-9/s851x315/173505802_10158394186742449_3857969275452537320_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=dbeb18&_nc_ohc=P8a_MlMHiewAX8sOxdn&_nc_ht=scontent.ficn4-1.fna&tp=7&oh=ffc662c4c3332b71451a9ac1f642f62c&oe=60A1C6B9)
 
 
 리디셀렉트에서 진행중인 연재. 격주 목요일. 
