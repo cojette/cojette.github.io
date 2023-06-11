@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   데이터 분석과 어느 데이터 과학자의 삶의 이것저것
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: http://cojette.github.io
+url: 'http://cojette.github.io'
 
 github:
   username: cojette # change to your github username
@@ -47,7 +47,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/jeongmin-kwon-a5069734/
 
-google_site_verification: # fill in to your verification string
+google_site_verification: google_meta_tag_verification # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -76,7 +76,7 @@ theme_mode: dark # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://avatars0.githubusercontent.com/u/6083597?v=3&u=92a2cdbc0fb5b5f387126b5aead6db55de064e49&s=400"
+avatar: 'https://avatars0.githubusercontent.com/u/6083597?v=3&u=92a2cdbc0fb5b5f387126b5aead6db55de064e49&s=400'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
