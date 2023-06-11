@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <데이터 분석가의 숫자 유감> 연재 1화
+title: 데이터 분석가의 숫자 유감 연재 1화
 ---
 
 ![](https://pbs.twimg.com/card_img/1331760875124916225/ENUexNuK?format=jpg&name=small)
