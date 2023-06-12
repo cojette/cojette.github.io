@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 떠다니던 데이터를 제대로 이용하려는 노력, 의사결정 인텔리전스(DI)
+date: 2023-05-29 13:00:00 +0900
+categories: [Data, Concepts]
+tags: [데이터, 의사결정, DI, 의사결정 인텔리전스, 아웃스탠딩]
 ---
 
 ![](https://cdn.outstanding.kr/wp-content/uploads/2023/05/01-data-600x338.jpg)
