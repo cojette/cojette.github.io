@@ -6,7 +6,7 @@ categories: [Other, Info]
 tags: [jekyll, chirpy, utterances, github, blog, 블로그]
 ---
 
-![](https://github.com/cojette/cojette.github.io/blob/master/assets/img/cap0612.JPG)
+![](https://raw.githubusercontent.com/cojette/cojette.github.io/master/assets/img/cap0612.JPG)
 
 오랜만에 블로그 개선작업을 했다. 
 블로그를 여기저기 전전하다 Github Pages를 사용한 지 벌써 몇 년이 되었다. 처음에는 그냥 이전 블로그를 옮겨오겠다는 마음에 일단 Github Pages에 Jekyll을 올려서 글을 옮겼고, 이후에 이래저래 개선하자고 생각은 했지만, 원래 나중에 해야지 하는 일은 안 하는 법이다. (...)
