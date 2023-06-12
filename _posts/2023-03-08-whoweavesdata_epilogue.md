@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 데이터를 엮는 사람들, 데이터 과학자-출간 후기
+date: 2023-03-08 13:00:00 +0900
+categories: [Data, Books]
+tags: [데이터,데이터를 엮는 사람들, 데이터 과학자, 책]
 ---
 
 [![](https://cojette.files.wordpress.com/2023/03/image-1.png?w=500)](https://cojette.files.wordpress.com/2023/03/image-1.png?w=500)
