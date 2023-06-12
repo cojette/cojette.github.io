@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 블로그 개선
+title: 블로그 개선 작업
 date: 2023-06-12 22:00:00 +0900
 categories: [Other, Info]
 tags: [jekyll, chirpy, utterances, github, blog, 블로그]
