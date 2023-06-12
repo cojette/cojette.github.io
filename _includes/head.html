@@ -88,6 +88,12 @@
       <link rel="dns-prefetch" href="{{ proxy_url }}">
     {% endif %}
   {% endif %}
+  
+    
+  <!-- Adsense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5012104602377726"
+     crossorigin="anonymous"></script>
+  
 
   <!-- Bootstrap -->
   <link rel="stylesheet" href="{{ site.data.origin[type].bootstrap.css | relative_url}}">
@@ -113,8 +119,5 @@
   {% endunless %}
 
   {% include metadata-hook.html %}
-  
-  <!-- Adsense -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5012104602377726"
-     crossorigin="anonymous"></script>
+
 </head>
