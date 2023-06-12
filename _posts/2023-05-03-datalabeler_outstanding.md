@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 데이터 라벨러의 명암, 그리고 조심해야 할 것
+date: 2023-05-03 13:00:00 +0900
+categories: [Data, Concepts]
+tags: [데이터, 데이터 라벨링, 데이터 라벨러, 아웃스탠딩]
 ---
 
 ![](https://wp.outstanding.kr/wp-content/uploads/2023/03/01-labelling.jpg)
