@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 대화형 인공지능 시대.. 데이터 과학자는 살아남을 수 있을까요?
+date: 2023-02-17 13:00:00 +0900
+categories: [Data, Concepts]
+tags: [데이터, 인공지능, 생성AI, 데이터 과학자, 아웃스탠딩]
 ---
 
 ![](https://wp.outstanding.kr/wp-content/uploads/2023/02/01-chatgpt.jpg)
