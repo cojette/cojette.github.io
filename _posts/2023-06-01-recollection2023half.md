@@ -1,6 +1,9 @@
 ---
 layout: post
 title: (조금 이른) 2023년 상반기 후일담
+date: 2023-06-01 13:00:00 +0900
+categories: [Other, Life]
+tags: [후일담, 회고, 등산, 프리랜서]
 ---
 
 [![](https://cojette.files.wordpress.com/2023/06/img_1456-2.jpg?w=768)](https://cojette.files.wordpress.com/2023/06/img_1456-2.jpg)
