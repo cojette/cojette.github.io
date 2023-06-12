@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 1월 COMMIT 발표 후기
+date: 2023-01-26 13:00:00 +0900
+categories: [Data, Works]
+tags: [데이터, COMMIT, 발표]
 ---
 
 [![](https://cojette.files.wordpress.com/2023/01/image.png?w=1024)](https://cojette.files.wordpress.com/2023/01/image.png)
