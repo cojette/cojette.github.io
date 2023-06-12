@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 가트너 하이프 사이클로 살펴보는 2023년 데이터 업계 트렌드
+date: 2023-01-19 13:00:00 +0900
+categories: [Data, Concepts]
+tags: [데이터, 가트너, 하이프 사이클, 아웃스탠딩]
 ---
 
 ![](https://wp.outstanding.kr/wp-content/uploads/2023/01/02-Gartner_Hype_Cycle.jpg)
