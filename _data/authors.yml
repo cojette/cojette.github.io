@@ -6,6 +6,11 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+cojette:
+  name: JeongMin
+  twitter: mazycat
+  url: https://github.com/cojette/
+  
 cotes:
   name: Cotes Chung
   twitter: cotes2020
