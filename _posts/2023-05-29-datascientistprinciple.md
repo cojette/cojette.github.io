@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 데이터 과학자 원칙- 책에 참여했습니다. 
+date: 2023-05-29 13:00:00 +0900
+categories: [Data, Books]
+tags: [데이터, 데이터과학자원칙, 책]
 ---
 
 
