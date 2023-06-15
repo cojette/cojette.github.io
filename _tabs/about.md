@@ -41,4 +41,6 @@ permalink: /about/
     * [인공지능과 젠더](http://m.ildaro.com/8114)
   
 ### Contact me
-[cojette@gmail.com](mailto:cojette@gmail.com)
+Coffee chat: www.hithere.co/jeongminkwon
+Mentoring: https://inf.run/8oXe
+e-mail: [cojette@gmail.com](mailto:cojette@gmail.com)
