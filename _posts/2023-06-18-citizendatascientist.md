@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 시민 데이터 과학자가 떠오르고 있다
-date: 2023-06-19 22:00:00 +0900
+date: 2023-06-18 22:00:00 +0900
 categories: [Data, Concepts]
 tags: [시민 데이터 과학자, 아웃스탠딩, Data, 의사결정]
 ---
