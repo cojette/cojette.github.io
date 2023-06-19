@@ -6,6 +6,7 @@ categories: [Data, Concepts]
 tags: [시민 데이터 과학자, 아웃스탠딩, Data, 의사결정]
 ---
 
+
 ![](https://cdn.outstanding.kr/wp-content/uploads/2023/06/01-data-600x337.jpg)
 
 이번 달에는 아웃스탠딩에 '시민 데이터 과학자'에 대한 글을 실었습니다. 
