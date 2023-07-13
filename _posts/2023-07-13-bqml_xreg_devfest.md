@@ -6,6 +6,8 @@ categories: [Data, Skill]
 tags: [데이터, BigQuery, BQML, Machine Learning, Time-series, ARIMA, ARIMA_PLUS_XREG, ARIMA_PLUS]
 ---
 
+(English: [Link](https://medium.com/@cojette/multivariate-time-series-prediction-with-bqml-feat-devfest-2022-5eb584872055) )
+
 ## More predictable time-series model with BQML
 
 작년 겨울에 우즈베키스탄의 수도 타슈켄트에서 열린 [GDG DevFest Tashkent 2022](https://gdg.community.dev/events/details/google-gdg-tashkent-presents-devfest-tashkent-22/)에서 'More predictable time-series model with BQML'이란 주제로 발표를 했었다.
@@ -78,11 +80,22 @@ WHERE  date BETWEEN DATE('2012-01-01') AND DATE('2020-12-31')
 두 모델을 간단히 `ML.Evaluate `를 사용해서 비교해 보았다.
 
 ```
-SELECT  *  FROM  ML.EVALUATE          (  MODEL test_dt_us.seattle_pm25_plus_model,            (  SELECT  date,  pm25             FROM  test_dt_us.seattle_air_quality_daily              WHERE  date > DATE('2020-12-31')  ))
+SELECT  *  
+FROM  ML.EVALUATE      
+      (  MODEL test_dt_us.seattle_pm25_plus_model, 
+      (  SELECT  date,  pm25   
+         FROM  test_dt_us.seattle_air_quality_daily   
+         WHERE  date > DATE('2020-12-31')  ))
 ```
 
 ```
-SELECT  *  FROM  ML.EVALUATE           (  MODEL test_dt_us.seattle_pm25_xreg_model,             (  SELECT  date,  pm25,  temperature,  wind_speed                FROM  test_dt_us.seattle_air_quality_daily                WHERE  date > DATE('2020-12-31')  ),            STRUCT(  TRUE AS perform_aggregation,  30 AS horizon))
+SELECT  *  
+FROM  ML.EVALUATE    
+      (  MODEL test_dt_us.seattle_pm25_xreg_model,
+      (  SELECT  date,  pm25,  temperature,  wind_speed   
+         FROM  test_dt_us.seattle_air_quality_daily  
+         WHERE  date > DATE('2020-12-31')  ),
+      STRUCT(  TRUE AS perform_aggregation,  30 AS horizon))
 ```
 
 결과는 다음과 같다.
