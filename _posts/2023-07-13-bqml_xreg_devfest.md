@@ -6,7 +6,6 @@ categories: [Data, Skill]
 tags: [데이터, BigQuery, BQML, Machine Learning, Time-series, ARIMA, ARIMA_PLUS_XREG, ARIMA_PLUS]
 ---
 
-(English: [Link](https://medium.com/@cojette/multivariate-time-series-prediction-with-bqml-feat-devfest-2022-5eb584872055) )
 
 ## More predictable time-series model with BQML
 
@@ -113,3 +112,6 @@ XREG 쪽의 모델이 MAE, MSE, MAPE 등의 기본 성능 지표에서 살짝 �
 * * * * *
 
 다변량 시계열 분석은 많은 경우에 굉장히 필요한 옵션인데 여러 가지 이유로 적용하기 힘든 경우가 많다. 그럴 때에 활용 가능한 좋은 옵션이 생긴 것 같으니, 알아두면 많은 경우에 활용 가능할 것이라고 기대하고 있다.
+
+(English: [Link](https://medium.com/@cojette/multivariate-time-series-prediction-with-bqml-feat-devfest-2022-5eb584872055) )
+
