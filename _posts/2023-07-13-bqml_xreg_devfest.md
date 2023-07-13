@@ -48,7 +48,7 @@ tags: [데이터, BigQuery, BQML, Machine Learning, Time-series, ARIMA, ARIMA_PL
 
 진행 내용은 튜토리얼과 동일하기 때문에, 굳이 중복해서 사용하지는 않을 것이고, 만든 두 개의 모델만 써보면 다음과 같다. 우선 기존의 `ARIMA_PLUS`를 만든 후, 동일한 데이터에 당시의 온도와 풍속을 추가한 `XREG` 모델을 만들었다.
 
-```
+```SQL
 # ARIMA_PLUS
 CREATE OR REPLACE MODEL test_dt_us.seattle_pm25_plus_model
  OPTIONS (
@@ -60,7 +60,7 @@ FROM test_dt_us.seattle_air_quality_daily
 WHERE date BETWEEN DATE('2012-01-01') AND DATE('2020-12-31')
 ```
 
-```
+```SQL
 #ARIMA_PLUS_XREG
 CREATE OR REPLACE  MODEL test_dt_us.seattle_pm25_xreg_model
   OPTIONS (
@@ -78,7 +78,7 @@ WHERE  date BETWEEN DATE('2012-01-01') AND DATE('2020-12-31')
 
 두 모델을 간단히 `ML.Evaluate `를 사용해서 비교해 보았다.
 
-```
+```SQL
 SELECT  *  
 FROM  ML.EVALUATE      
       (  MODEL test_dt_us.seattle_pm25_plus_model, 
@@ -87,7 +87,7 @@ FROM  ML.EVALUATE
          WHERE  date > DATE('2020-12-31')  ))
 ```
 
-```
+```SQL
 SELECT  *  
 FROM  ML.EVALUATE    
       (  MODEL test_dt_us.seattle_pm25_xreg_model,
@@ -99,11 +99,11 @@ FROM  ML.EVALUATE
 
 결과는 다음과 같다.
 
-ARIMA_PLUS
+**ARIMA_PLUS**
 
 [![](https://cojette.files.wordpress.com/2023/07/image-2.png?w=1024)](https://cojette.files.wordpress.com/2023/07/image-2.png)
 
-ARIMA_PLUS_XREG
+**ARIMA_PLUS_XREG**
 
 [![](https://cojette.files.wordpress.com/2023/07/image-3.png?w=1024)](https://cojette.files.wordpress.com/2023/07/image-3.png)
 
