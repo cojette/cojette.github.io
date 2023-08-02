@@ -20,13 +20,17 @@ permalink: /about/
     * 역서: 파이썬을 활용한 베이지안 통계/ 딥러닝과 바둑 등
     * 감수: 딥러닝 레볼루션 등
 
-## 관련 외부 물자 - 발표 및 작업 조각 모음
+## 관련 외부 물자 
   * [GitHub](https://github.com/cojette)
-  * [Measuring benefit effect for customer with bayesian prediction modeling](http://strataconf.com/big-data-conference-uk-2015/public/schedule/detail/39592), Strata+Hadoop World, 2015 May  
-  * [From humble data to training data](https://github.com/cojette/useR2018_datawrangling/blob/master/useR2018_poordatawrangling.pdf), User!2018, 2018 July
-  * [Slides](http://www.slideshare.net/cojette)
-  * [여성개발자컨퍼런스-지속가능한 데이터 분석의 길을 찾아서](https://www.youtube.com/watch?v=j-tR8nm2CxU) ,2020 Nov.
-  * [기술용어 번역하기](https://www.youtube.com/watch?v=GELHl0yrbhc), TTCon 2019, 2019 Jan.
+  * 외부 게제
+    * [아웃스탠딩 외부 필진](https://outstanding.kr/search_detail/%EA%B6%8C%EC%A0%95%EB%AF%BC)
+    * [KDNuggets Editor](https://www.kdnuggets.com/author/jeongmin-kwon)
+  * 발표
+    * [Measuring benefit effect for customer with bayesian prediction modeling](http://strataconf.com/big-data-conference-uk-2015/public/schedule/detail/39592), Strata+Hadoop World, 2015 May  
+    * [From humble data to training data](https://github.com/cojette/useR2018_datawrangling/blob/master/useR2018_poordatawrangling.pdf), User!2018, 2018 July
+    * [Slides](http://www.slideshare.net/cojette)
+    * [여성개발자컨퍼런스-지속가능한 데이터 분석의 길을 찾아서](https://www.youtube.com/watch?v=j-tR8nm2CxU) ,2020 Nov.
+    * [기술용어 번역하기](https://www.youtube.com/watch?v=GELHl0yrbhc), TTCon 2019, 2019 Jan.
   * 유튜브 및 팟캐스트 참여
     * 데이터홀릭
        * [Ep.58. 스타트업 고인물에게 듣는 현장 데이터 이야기](https://www.youtube.com/watch?v=rundDBrMAxU)
