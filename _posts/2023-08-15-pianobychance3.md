@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 어쩌다, 피아노(1)
+title: 어쩌다, 피아노(3)
 date: 2023-08-15 12:19:00 +0900
 categories: [Other, Life]
 tags: [피아노, 하농]
