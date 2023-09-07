@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  자신의 독서량에 대해 좀 더 뿌듯해 하는 법
@@ -6,10 +5,6 @@ date: 2023-09-07 23:07:00 +0900
 categories: [Data, Concepts]
 tags: [데이터, 독서, 집계]
 ---
-
-
-========================
-
 
 ![](https://cojette.files.wordpress.com/2023/09/111.jpg)
 
