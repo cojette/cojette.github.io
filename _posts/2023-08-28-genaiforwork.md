@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 시민 데이터 과학자가 떠오르고 있다
+title: 생성 AI가 생산성에 도움을 준다?!
 date: 2023-08-28 19:01:00 +0900
 categories: [Data, Concepts]
 tags: [생성AI, 아웃스탠딩, Data, 업무]
