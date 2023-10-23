@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A/B테스트로 효과를 보지 못했다면? 목표부터 다시 살펴보세요.
-date: 2023-10-06 13:20:00 +0900
+date: 2023-10-23 13:10:00 +0900
 categories: [Data, Concepts]
 tags: [A/B Test, 아웃스탠딩, 데이터, 지표, 실험설계, 실험, A/B테스트]
 ---
