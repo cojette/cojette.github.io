@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [온라인 강의] chatGPT와 함께 하는 실전 데이터 과학
+title: chatGPT와 함께 하는 실전 데이터 과학 - 온라인 강의 런칭 후기
 date: 2023-12-22 15:45:00 +0900
 categories: [Data, Works]
 tags: [인프런, 온라인 강의, chatGPT, 데이터 분석, 데이터 과학, Data Analytics, Data Science, LLM, 인공지능]
@@ -10,7 +10,7 @@ tags: [인프런, 온라인 강의, chatGPT, 데이터 분석, 데이터 과학,
 ![](https://cojette.files.wordpress.com/2023/12/dallc2b7e-2023-10-24-14.05.47-render-of-a-3d-logo-with-the-text-chatgpt-clearly-and-prominently-displayed-at-the-forefront.-behind-it-the-text-ec9980-ed95a8eabb98-ed9598eb8a94-eb8db0ec9d.png)
 인프런에서 온라인 강의를 오픈했습니다.
 
-[강의 링크]
+[강의 링크](https://inf.run/z1GAn)
 
 이 강의는 chatGPT를 활용해서 실무적으로 활용되는 데이터 과학 전반에 대해서 빠르게 이해하고, 실제로 chatGPT를 데이터 과학 업무에 활용할 수 있도록 도움을 드릴 수 있는 방향으로 구성되었습니다.
 
