@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 2022년 상반기 후일담
+date: 2022-06-26 16:20:00 +0900
+categories: [Other, Life]
+tags: [후기, 회고, 시작]
+
 ---
 
 
