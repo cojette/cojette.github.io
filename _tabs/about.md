@@ -13,7 +13,7 @@ permalink: /about/
 ## 프로필
  * [Resume](https://www.linkedin.com/in/jeongmin-kwon-a5069734/)
 
- * [GDE Profile](https://developers.google.com/community/experts/directory/profile/profile-jeongmin-kwon)
+ * [GDE Profile](https://developers.google.com/profile/u/jeongminkwon)
 
  * [출판 관련](https://www.yes24.com/24/AuthorFile/Author/196527)
     * 저서: 데이터를 엮는 사람들, 데이터 과학자 / 데이터 분석가의 숫자 유감 등
@@ -21,8 +21,8 @@ permalink: /about/
     * 감수: 딥러닝 레볼루션 등
 
 ## 관련 외부 물자 
-  * [GitHub](https://github.com/cojette)
   * 외부 게제
+    * [인프런 강의](https://inf.run/z1GAn)
     * [아웃스탠딩 외부 필진](https://outstanding.kr/search_detail/%EA%B6%8C%EC%A0%95%EB%AF%BC)
     * [KDNuggets Editor](https://www.kdnuggets.com/author/jeongmin-kwon)
   * 발표
@@ -43,6 +43,7 @@ permalink: /about/
     * [SF로 전망하는 미래사회와 AI](https://www.sciencetimes.co.kr/news/ai-%EA%B0%80%EC%A1%B1%EC%95%A0-%EB%8A%90%EB%82%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/)
     * [스타트업은 어떻게 데이터를 활용해야 할까](https://platum.kr/archives/22023)
     * [인공지능과 젠더](http://m.ildaro.com/8114)
+  * [GitHub](https://github.com/cojette)
   
 ### Contact me
 * [Coffee chat](https://www.hithere.co/jeongminkwon)
