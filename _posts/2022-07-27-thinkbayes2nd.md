@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 파이썬을 활용한 베이지안 통계(2판) 번역 후기
+date: 2022-07-27 11:20:00 +0900
+categories: [Data, Books]
+tags: [데이터, 베이지안, 통계, 파이썬, Python, Bayesian, Allen Downey, 앨런 다우니, 번역]
 ---
-
 
 [![](https://cojette.files.wordpress.com/2022/07/image.png?w=500)](https://cojette.files.wordpress.com/2022/07/image.png)
 
