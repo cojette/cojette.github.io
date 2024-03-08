@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 다이내믹 프라이싱이 만악의 근원은 아닙니다
+title: 서비스에서 넛지를 추구하면 안 되는 걸까 
 date: 2024-03-08 11:20:00 +0900
 categories: [Data, Concepts]
 tags: [데이터, UX, 넛지, 다크 패턴, ]
