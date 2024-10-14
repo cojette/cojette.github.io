@@ -1,7 +1,11 @@
 ---
 layout: post
 title: 바르셀로나 BIG BANG DATA 전시회 관람기
---- 
+date: 2014-10-28 21:03:00 +0900
+categories: [Data, Concepts]
+tags: [여행, 바르셀로나, CCCB, 빅데이터]
+---
+
 
 10월 초에 개인적으로 바르셀로나에 다녀왔다. 가서 여기저기 구경하다가 CCCB(Centre de Cultura Contemporània de Barcelona, 바르셀로나 현대 문화 센터)도 슬쩍 구경갔는데, 1층에 있는 서점에 코끼리가 그려진 Big Data 어쩌고 하는 책이 바로 눈에 띄었다. 웬지 기분이 수상쩍어 어떤 전시를 하고 있는지 살펴보러 갔다가, 이런 전시를 하고 있길래 바로 들어가 보기로 했다.
 
