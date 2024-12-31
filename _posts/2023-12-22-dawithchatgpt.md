@@ -4,8 +4,6 @@ title: chatGPT와 함께 하는 실전 데이터 과학 - 온라인 강의 런�
 date: 2023-12-22 15:45:00 +0900
 categories: [Data, Works]
 tags: [인프런, 온라인 강의, chatGPT, 데이터 분석, 데이터 과학, Data Analytics, Data Science, LLM, 인공지능]
-pin: true
-
 ---
 
 ![](https://cojette.files.wordpress.com/2023/12/dallc2b7e-2023-10-24-14.05.47-render-of-a-3d-logo-with-the-text-chatgpt-clearly-and-prominently-displayed-at-the-forefront.-behind-it-the-text-ec9980-ed95a8eabb98-ed9598eb8a94-eb8db0ec9d.png)
