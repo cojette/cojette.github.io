@@ -56,15 +56,17 @@ PyMC의 주요 개발자들이 만든 베이지안 컨설팅 서비스인 [PyMC
 이전에 소개했던 Facebook의 Robyn(R 패키지), Google의 LightweightMMM (Python), stan 기반의 Prophet 변형(직접 스크립트 작성) 등과 비교했을 때의 pymc-marketing의 강점을 살펴보면 다음과 같다.
 
 ### Robyn(R) 대비
-    -   Python 친화: Robyn의 [python 버전이 정말로 최근에 나왔다](https://developers.facebook.com/blog/post/2024/12/19/announcing-the-python-version-of-project-robyn/?locale=ko_KR)(그렇다 이 분야는 요즘 열심히 발전하고 있다). 하지만 오리지널 python과 R->python 포팅은...아무래도 차이가 있을 수 밖에 없다.
-    -   베이지안 추론의 유연성: Robyn도 베이지안 기법을 일부 차용하지만, `pymc-marketing`은 PyMC의 확률적 프로그래밍 능력을 그대로 사용할 수 있어, 복잡한 구조(계층적-맞춤 분포 등) 적용에 더 용이할 것으로 보인다.
+
+-   Python 친화: Robyn의 [python 버전이 정말로 최근에 나왔다](https://developers.facebook.com/blog/post/2024/12/19/announcing-the-python-version-of-project-robyn/?locale=ko_KR)(그렇다 이 분야는 요즘 열심히 발전하고 있다). 하지만 오리지널 python과 R->python 포팅은...아무래도 차이가 있을 수 밖에 없다.
+-   베이지안 추론의 유연성: Robyn도 베이지안 기법을 일부 차용하지만, `pymc-marketing`은 PyMC의 확률적 프로그래밍 능력을 그대로 사용할 수 있어, 복잡한 구조(계층적-맞춤 분포 등) 적용에 더 용이할 것으로 보인다.
 
 ### LightweightMMM 대비
-    -   고급 모델링 기능: LightweightMMM은 쉽고 빠른 MMM을 보여주지만, 복잡한 모델을 구현해야 하거나 커스터마이즈를 해야 하는 경우 소스 코드를 뜯어보아야 하는 경우가 종종 발생할 수 있따다. 반면 `pymc-marketing`은 필요할 경우 PyMC의 기능을 적재적소에 활용할 수 있을 것으로 보인다.
-    -   변이형 추론(VI)-MCMC 혼합 사용: 경우에 따라 PyMC에서 제공하는 추론 기법을 적재적소에 넣을 수 있다.
+-   고급 모델링 기능: LightweightMMM은 쉽고 빠른 MMM을 보여주지만, 복잡한 모델을 구현해야 하거나 커스터마이즈를 해야 하는 경우 소스 코드를 뜯어보아야 하는 경우가 종종 발생할 수 있따다. 반면 `pymc-marketing`은 필요할 경우 PyMC의 기능을 적재적소에 활용할 수 있을 것으로 보인다.
+-   변이형 추론(VI)-MCMC 혼합 사용: 경우에 따라 PyMC에서 제공하는 추론 기법을 적재적소에 넣을 수 있다.
 
 ### 직접 Python으로 구현 대비
-    -   어차피 베이지안 쓰려면 PyMC를 써야 할 거고...그러면 굳이...이걸 안 쓰고 바닐라로 구현할 필요가...있을까요(...)
+
+-   어차피 베이지안 쓰려면 PyMC를 써야 할 거고...그러면 굳이...이걸 안 쓰고 바닐라로 구현할 필요가...있을까요(...)
 
 
 
