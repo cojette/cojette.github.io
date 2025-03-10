@@ -27,9 +27,8 @@ tags: [데이터, 인과분석, The book of Why, 인과의 사다리, 상관관�
 
 [데이터 분석가의 숫자유감]에서도 인용한 유명한 예로, "아이스크림 판매량과 물놀이 사고 수는 상관관계가 있다"는 이야기가 있다. 이는 둘 다 여름에 증가하는 현상으로, 상관 단계에서 인과적 결론을 내릴 수 없는 이유다. 또한 그 관계가 단일하게만 이루어지지는 않는다. A와 B가 C에 영향을 주는 것만 해도 다음의 두 가지 그림 같이 다르게 나타날 수 있지만, 변수 간의 상관 관계를 파악하는 데 있어서 이 두 가지를 구분하는 것은 어려울 수도 있다.
 
-![](https://cojette.wordpress.com/wp-content/uploads/2025/03/image-1.png?w=720)
-
-![](https://cojette.wordpress.com/wp-content/uploads/2025/03/image.png?w=754)
+![](https://cojette.wordpress.com/wp-content/uploads/2025/03/image-1.png?w=300) | ![](https://cojette.wordpress.com/wp-content/uploads/2025/03/image.png?w=300)
+--- | --- | 
 
 ### 2단계: 개입(Intervention)
 
