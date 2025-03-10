@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 인과의 사다리
-date: 2025-01-27 21:38:00 +0900
+date: 2025-03-10 21:46:00 +0900
 categories: [Data, Concepts]
 tags: [데이터, 인과분석, The book of Why, 인과의 사다리, 상관관계, 인과관계, 인과]
 ---
