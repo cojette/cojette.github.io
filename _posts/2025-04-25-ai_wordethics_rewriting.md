@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LLM AI와 대화 윤리
-date: 2025-04-16 22:00:00 +0900
+date: 2025-04-25 22:00:00 +0900
 categories: [Data, Concepts]
 tags: [데이터, LLM, AI 윤리, 다시 쓰기, 편향, Grok, chatGPT, AI, 아웃스탠딩]
 ---
