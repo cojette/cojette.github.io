@@ -120,3 +120,12 @@ tags: [데이터, AI 윤리, 다이나믹프라이싱, 동적가격, 아웃스�
 -   <https://adure.net/contents/detail/2024%EB%85%84-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%94%AC%EC%9D%98-%EB%AA%A8%EC%8A%B5%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%ED%99%94%EB%90%A0%EA%B9%8C--252>
 -   <https://www.logibridge.kr/product/daily40>
 -   <https://www.euronews.com/next/2024/10/17/oasis-ticket-costs-spur-irate-european-lawmakers-to-kerb-dynamic-pricing>
+
+---------------------
+
+이 글은 [연재글 다시 쓰기 프로젝트](https://cojette.github.io/posts/outst_rewriting_project/)의 일환으로 쓰게 된 글로 [이 글](https://cojette.github.io/posts/dynamicpricing/) 을 다시 쓴 것입니다. 원본도 글이 상당히 긴 편이었으나, 자료 조사를 하다 보니 자료들이 굉장히 많이 나왔고(요즘 사용이 활발한가 봅니다...), ~~제가 오아시스 국내 공연 티켓을 못 구해서 이러는 게 맞고,~~ 예전에 글을 쓰면서 마감에 쫓겨서 결말을 애매하게 냈던 기억이 있어서 그래도 다양한 관점을 살펴보고 겨우겨우 나름의 마무리를 하려고 하다 보니 글이 다소 길어졌지만, 여러 번에 나눠서 읽어도 나름 처음 접하는 분께 도움이 될 것이라고 생각합니다. 
+
+
+-----
+장기적인 비전을 가지고 즐겁게 일할 수 있는 곳을 찾고 있습니다.
+관련하여 이야기를 해보고 싶으신 분, 혹은 그 외에도 다양한 이야기를 나누고자 하시는 분은 저에게 편하게 메일이나 댓글 등으로 연락을 주시기 바랍니다. 
