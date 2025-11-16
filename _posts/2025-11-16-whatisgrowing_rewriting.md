@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (AI시대의) 성장이란 무엇인가
-date: 2025-07-06 22:33:00 +0900
+date: 2025-11-16 12:40:00 +0900
 categories: [Data, Concepts]
 tags: [데이터, AI, 성장, 아웃스탠딩]
 ---
