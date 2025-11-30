@@ -14,9 +14,9 @@ tags: [여행, 영국, 옥스포드, 크라이스트처치, Oxford, Christ Churc
 
 그리고 시간이 흘러 어느덧 옥스포드에.
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg?w=766)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg)
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg?w=768)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg)
 
 (왼쪽: 보통 가는 크라이스트 처치. 오른쪽: 평소에는 닫혀있는 오른쪽의 쟈근 문 앞 텐트로 가니 'Garden Scheme 왔냐 예약했냐 물어보고 티켓 확인 후 입장시켜줌. 브로셔도 주고 차도 준다. )
 
@@ -24,31 +24,31 @@ tags: [여행, 영국, 옥스포드, 크라이스트처치, Oxford, Christ Churc
 
 구경할 수 있는 정원은 총 3군데였고, 첫 번째 (메인홀 건물 바로 옆) 정원은 정말 전형적인 '영국식 정원' 이었다(규칙적으로 꾸며둔 것은 아니라 적당히 정돈된 매우 자연스러운 시골 정원 스타일).
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1498-3.jpg?w=768)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1498-3.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1498-3.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1498-3.jpg)
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1501-1.jpg?w=768)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1501-1.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1501-1.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1501-1.jpg)
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1502.jpg?w=768)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1502.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1502.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1502.jpg)
 
 그리고 거기를 지나가면 넓은 들판에 주변에 나무들만 적당히 심어놓은 두 번째 정원이 나온다. 그리고 거기엔 이 것이 있다.
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1503.jpg?w=768)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1503.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1503.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1503.jpg)
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1508-1.jpg?w=682)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1508-1.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1508-1.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1508-1.jpg)
 
 바로 [거울 나라의 앨리스]와 [스나크 사냥] 등에 등장하는 재버워키라는 괴물. 재버워키가 이 나무에서 착안되었다- 라고 열심히 자랑을 한다. 물론 이 동네 나무들 중에 이렇게 비뚤빼뚤한 나무가 별로 없고 루이스 캐럴은 아무래도 많이 돌아다니던 편은 아니니까...라지만 사실 이 나무가 몇 백년 전에는 지금보다 꽤 작았을 것이고 존 테니엘의 삽화(오른쪽)를 애들이 무서워하지 않을까 라면서 그다지 좋아하지 않았던 것으로 알고 있으며, 소설의 시에서 언급되는 재버워키는 너무 너무 말장난 그 자체라 여러 모로 이 나무에 재버워키를 끼워넣는 건 나중에 지어낸 말 아닐까...라는 말이 중론이라고 알고 있기는 하다. 하지만 정말로 이질적이면서 위풍당당한 기세가 근사하고 어쨌든 말로만 들었던 걸 실제로 보았다는 것에 의의를 가지고 있다. 정형적인 미를 가진 건 아니지만 신나게 뻗어나간 가지들의 기세가 마음에 들었다.
 
 그리고 세 번째 정원. 여기는 더 볼품 없다. 나무들도 작고, 적당히 넓은 들판에 벤치 몇 개 있는 게 전부. 그냥 넓은 들판이라 여기에서 체스판을 생각하기는 참 쉬웠을 것도 같다. (...) 하지만 여기에서 볼 것들이 있으니.
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1517.jpg?w=768)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1517.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1517.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1517.jpg)
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1522.jpg?w=225)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1522.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1522.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1522.jpg)
 
 한쪽 벽에 작은 문이 있다. 엄청나게 작은 건 아니고 내가 고개 숙이고 들어가야 하는 정도? 이 담 너머에는 학장 관저가 있고, 이 정원은 원래는 학교 것이 아닌 사유지였다고 한다. 관저 안에서 보이는 사유지 정원은 근사해 보였고(대체 왜지(...)) 그래서 가끔 여기로 들어오려고 해도 들어올 수 없었다고. 그래서 앨리스가 작아진 다음에 들어갈 수 있는 문- 그리고 그 문을 열면 보이는 아름다운 정원과 말하는 꽃들-은 여기서 유래가 되었다고 하는데 그럴 만도.
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1519.jpg?w=768)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1519.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1519.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1519.jpg)
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1523.jpg?w=189)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1523.jpg)
+[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1523.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1523.jpg)
 
 그리고 이 문의 우측 옆의 학장 관저(여기는 개방되지 않음) 안에 있는 다듬어지지 않은 큰 나무는 밤나무라고 하고, 체셔캣이 앉아있는 나무를 여기서 연상했다고 한다. 뭐 당연히 캐럴이 태어났거나 머물렀던 다른 지역의 사람들도 자기네 동네가 체셔캣 나무 원조다! 라는 이야기들을 하지만, 아무래도 앨리스가 있었던 동네 나무가 맞지 않을까...싶은. 실제로 정원에 여기저기 장미나무들도 있으니까 (학장 관저 정원은 못 봐서 모르지만 역시 있지 않을까).\
 어쩌면 체셔캣이 앉아있었을 지도 모르는 나무를 벤치에 앉아서 멍하니 바라보며, 어디든 내가 걸어가면 뭔가가 나오고 그것은 길이겠지, 라는 생각을 했다.
