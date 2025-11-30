@@ -23,7 +23,7 @@ tags: [여행, 영국, 옥스포드, 크라이스트처치, Oxford, Christ Churc
 
 구경할 수 있는 정원은 총 3군데였고, 첫 번째 (메인홀 건물 바로 옆) 정원은 정말 전형적인 '영국식 정원' 이었다(규칙적으로 꾸며둔 것은 아니라 적당히 정돈된 매우 자연스러운 시골 정원 스타일).
 
-| ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1498-3.jpg?w=300) | ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1501-1.jpg?w=300) | ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1502.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1502.jpg) |
+| ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1498-3.jpg?w=300) | ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1501-1.jpg?w=300) | ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1502.jpg?w=300) |
 
 그리고 거기를 지나가면 넓은 들판에 주변에 나무들만 적당히 심어놓은 두 번째 정원이 나온다. 그리고 거기엔 이 것이 있다.
 
