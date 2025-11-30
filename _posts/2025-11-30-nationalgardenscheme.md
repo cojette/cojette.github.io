@@ -14,7 +14,7 @@ tags: [여행, 영국, 옥스포드, 크라이스트처치, Oxford, Christ Churc
 
 그리고 시간이 흘러 어느덧 옥스포드에.
 
-<figure class="half">  <a href="link"><img src="https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg"></a>  <a href="link"><img src="https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg"></a>  </figure>
+<p align="center">  <img src="https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg" align="center" width="45%">  <img src="https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg" align="center" width="45%"> </p>
 
 [![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg)
 
