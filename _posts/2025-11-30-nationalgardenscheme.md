@@ -14,14 +14,8 @@ tags: [여행, 영국, 옥스포드, 크라이스트처치, Oxford, Christ Churc
 
 그리고 시간이 흘러 어느덧 옥스포드에.
 
-<p align="center">
-  <img src="https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg" align="center" width="45%">
-  <img src="https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg" align="center" width="45%"> 
-</p>
 
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg)
-
-[![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg?w=300)](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg)
+| ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1488-1.jpg?w=300) | ![](https://cojette.wordpress.com/wp-content/uploads/2025/11/img_1527-1.jpg?w=300) |
 
 (왼쪽: 보통 가는 크라이스트 처치. 오른쪽: 평소에는 닫혀있는 오른쪽의 쟈근 문 앞 텐트로 가니 'Garden Scheme 왔냐 예약했냐 물어보고 티켓 확인 후 입장시켜줌. 브로셔도 주고 차도 준다. )
 
