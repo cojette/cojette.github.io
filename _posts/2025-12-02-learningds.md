@@ -3,7 +3,7 @@ layout: post
 title: 파이썬으로 배우는 데이터 과학 - 번역 후기
 date: 2025-12-02 16:44:00 +0900
 categories: [Data, Books]
-tags: [데이터, 파이썬으로 배우는 데이터 과학, 데이터 과학, learning data science, 데이터 분석가, 데이터 과학자, 책, 감수]
+tags: [데이터, 파이썬으로 배우는 데이터 과학, 데이터 과학, learning data science, 데이터 분석가, 데이터 과학자, 책, 번역]
 ---
 
 
