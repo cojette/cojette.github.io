@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KOSIS(국가통계포털) 자료 스마트 검색 만들기
-date: 2026-03-05 08:10:00 +0900
+date: 2026-03-05 08:00:00 +0900
 categories: [Data, Works]
 tags: [데이터, AI, KOSIS, 검색, Gemini, Antigravity, 프롬프트, LLM, 통계]
 ---
