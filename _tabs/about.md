@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://raw.githubusercontent.com/cojette/cojette.github.io/master/IMG_3030.JPG" width="400" >
+<img src="https://raw.githubusercontent.com/cojette/cojette.github.io/master/IMG_3030.JPG" width="200" >
 
 ## 소개  
  **권정민(權廷玟, Kwon JeongMin)** (a.k.a. **Cojette(꼬젯)** )
@@ -20,7 +20,7 @@ permalink: /about/
     * 역서: 파이썬을 활용한 베이지안 통계/ 딥러닝과 바둑 등
     * 감수: 딥러닝 레볼루션 / 실전 데이터 분석 35 등
 
-  * Log&Plot
+  * [Log&Plot](https://logandplot.netlify.app/)
   
 ### Contact me
 * e-mail: [cojette@gmail.com](mailto:cojette@gmail.com)
