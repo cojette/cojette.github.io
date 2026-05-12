@@ -3,7 +3,7 @@ layout: post
 title: Lean Analytics, Revisited (in AI and Agent era)
 date: 2026-05-12 20:12:00 +0900
 categories: [Data, Concepts]
-tags: [데이터, AI, 린 분석, 기능 공장, Lean Analytics, Feature Factory, Data, Metrics, 지]
+tags: [데이터, AI, 린 분석, 기능 공장, Lean Analytics, Feature Factory, Data, Metrics, 지표]
 ---
 
 ![](https://cojette.wordpress.com/wp-content/uploads/2026/05/image.png?w=300)
