@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 기계의 자기인식 정도 측정에 관한 사유 (1)
-date: 2026-05-04 16:18:00 +0900
+date: 2026-10-01 16:59:00 +0900
 categories: [Data, Concepts]
-tags: [데이터, AI, 메타인지, 자기인식, metacognition, 평가, 지표, metric]
+tags: [데이터, AI, LLM, 메타인지, 자기인식, metacognition, 평가, 지표, metric]
 ---
 
 
